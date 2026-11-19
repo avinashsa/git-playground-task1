@@ -1,0 +1,1 @@
+i added two functions in the lib file , I also changed some working in the print in the main function
